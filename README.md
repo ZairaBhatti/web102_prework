@@ -18,23 +18,29 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+N/A
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
 Mac Screen Recording
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+https://drive.google.com/file/d/10n4Nfpgz9jBzxrzEdBoiT-mlfbD1x4Y5/view?usp=sharing
+
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+One challenge was that I didn't remember a lot of the language so I had to relearn syntax and stuff because I am so used to python I kept messing up
+
+Another challenge I had was that the concept of objects in JS was tricky for me to understand but I researched it and how they work to get a better understanding.
+
+
 
 ## License
 
